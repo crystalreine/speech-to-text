@@ -1,0 +1,9 @@
+{
+    "speech_api":{
+        "speech_key":"67a287061a1f43238df5715f234e7296",
+        "service_region":"southeastasia"
+    },
+    "location":{
+        "full_file_path":"data"
+    }
+}
